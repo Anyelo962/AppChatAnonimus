@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TchatAppS</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="txt_correoElectonico">Correo Electronico</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_passwordS">Password</string>
+    <string name="txt_registroActivity">Registrarme</string>
+    <string name="rb_sexoHombre">Hombre</string>
+    <string name="rb_sexoMujer">Mujer</string>
+    <string name="txt_nombre_usuario">Nombre de usuario</string>
+    <string name="txt_apellido_usuario">Apellido</string>
+    <string name="txt_nombre">Nombre</string>
+</resources>
